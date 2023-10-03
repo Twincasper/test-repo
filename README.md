@@ -13,4 +13,8 @@ A repo to test how to make a repo
  - We learned the git flow of git status, git add, git commit to write messages clarifying the changes, and git push to push said changes.
  - The terminology for the git flow is staging.
 
+## What have I learned so far part 3?
+
+ - Git pull allows you to download a remote repos content to be synced with locally.
+ - Git add has the -A, -all and . options to add everything changed.
 
