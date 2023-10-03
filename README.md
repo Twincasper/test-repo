@@ -8,3 +8,9 @@ A repo to test how to make a repo
  - The local clone of the repo can be used offline.
  - Git is a version control software, github is just a site that utilizes git.
 
+## What have I learned so far part 2?
+
+ - We learned the git flow of git status, git add, git commit to write messages clarifying the changes, and git push to push said changes.
+ - The terminology for the git flow is staging.
+
+
